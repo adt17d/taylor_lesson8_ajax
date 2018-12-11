@@ -19,4 +19,4 @@ https://github.com/adt17d/taylor_lesson8_ajax.git
 ### Lessons Learned in the Assignment:
 1. (In this lesson I learned how to use API to acess a database.)
 2. (In this lesson I learned how to add information categories into a search engine.)
-3. (In this lesson I learned how to link those categories to a database so that they show up on the search engine.)
+3. (In this lesson I learned how to combine those categories to a database so that they show up on the search engine.)
